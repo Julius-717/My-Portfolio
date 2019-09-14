@@ -1,0 +1,12 @@
+body{
+    
+    background-image: url("images/IMG_20190422_175928_986.JPG");
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+li{
+    display: inline;
+    margin-left: 16px;
+}
