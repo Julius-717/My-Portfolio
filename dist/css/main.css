@@ -369,3 +369,27 @@ main#home h1 {
     grid-template-columns: 1fr;
   }
 }
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {transition: width 3s ease 0s; width: 90%; background-color: #4CAF50;}
+.css {transition: width 3s ease 0s; width: 80%; background-color: #2196F3;}
+.js {transition: width 3s ease 0s; width: 65%; background-color: #f44336;}
+.php {transition: width 3s ease 0s; width: 45%; background-color: #808080;}
+.python {transition: width 3s ease 0s; width: 70%; background-color: goldenrod;}
+.django {transition: width 3s ease 0s; width: 50%; background-color: greenyellow;}
+.flask {transition: width 3s ease 0s; width: 75%; background-color: brown;}
+.angular {transition: width 3s ease 0s; width: 60%; background-color: red;}
+.vue {transition: width 3s ease 0s; width: 45%; background-color: blueviolet;}
+.postgresql {transition: width 3s ease 0s; width: 35%; background-color: yellowgreen;}
+.restapi {transition: width 3s ease 0s; width: 30%; background-color: burlywood;}
