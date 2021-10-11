@@ -1,4 +1,4 @@
-![p1](p1.png)
+![Image 1](p1.png)
 
 ![p2](p2.png)
 
