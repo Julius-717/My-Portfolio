@@ -11,5 +11,3 @@
 ![Image 6](dist/img/p6.png)
 
 ![Image 7](dist/img/p7.png)
-
-![Image 8](dist/img/p8.png)
