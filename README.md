@@ -1,15 +1,15 @@
 ![Image 1](dist/img/p1.png)
 
-![p2](p2.png)
+![Image 2](dist/img/p2.png)
 
-![p3](p3.png)
+![Image 3](dist/img/p3.png)
 
-![p4](p4.png)
+![Image 4](dist/img/p4.png)
 
-![p5](p5.png)
+![Image 5](dist/img/p5.png)
 
-![p6](p6.png)
+![Image 6](dist/img/p6.png)
 
-![p7](p7.png)
+![Image 7](dist/img/p7.png)
 
-![p8](p8.png)
+![Image 8](dist/img/p8.png)
