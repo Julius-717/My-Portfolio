@@ -1,4 +1,4 @@
-![Image 1](p1.png)
+![Image 1](dist/img/p1.png)
 
 ![p2](p2.png)
 
